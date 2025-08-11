@@ -2,7 +2,7 @@
 
 A comprehensive payroll management system with employee management, payslip generation, meeting scheduling, and profile management features....ggg....patch 1
 
-## Features...
+## Features.....
 
 - **Dashboard**: Overview of key payroll and employee metrics
 - **Employee Management**: Add, edit, and manage employee information
